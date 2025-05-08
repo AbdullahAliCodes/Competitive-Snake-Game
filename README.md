@@ -3,6 +3,8 @@
 
 This project implements a smart, competitive AI for the **Wits Snake Tournament** hosted at [snake.wits.ai](https://snake.wits.ai). Built in Java, the bot makes use of **A\*** pathfinding and survival heuristics to compete for apples, avoid traps, and outperform opponents on the grid.
 
+📈 **Achievement**: With this bot, I placed in the **Top 10** on the official leaderboard!
+
 ---
 
 ## 🧠 Project Overview
